@@ -1,6 +1,6 @@
 # BondMap Privacy Policy
 
-Effective Date: July 9, 2026
+Effective Date: July 10, 2026
 
 BondMap is a private location sharing app for trusted family and friends. This policy describes BondMap v1.0.0.
 
@@ -12,13 +12,15 @@ If you have questions, contact us at support@passmate.jp.
 
 BondMap v1.0.0 does not require login, does not create user accounts, and does not provide cloud sync.
 
-## Location
+## Location Permission and Use
 
-BondMap uses your device location to show your current position on the map and to save optional check-ins locally when you choose to check in.
+BondMap requests When In Use location permission. It does not enable background location in v1.0.0.
 
-BondMap v1.0.0 requests When In Use location permission. It does not enable background location. Location sharing can be turned off in the app.
+BondMap uses your device location to show your current position on the map, support the location sharing on/off UI, and save optional check-ins locally when you choose to check in.
 
-The developer does not upload your location data to a developer server in BondMap v1.0.0.
+Location sharing can be turned off in the app. The location sharing controls in v1.0.0 are local UI controls and do not send live location to other users or to a developer server.
+
+The developer does not upload your location data or check-in history to a developer server in BondMap v1.0.0.
 
 ## Check-in History
 
@@ -44,8 +46,12 @@ BondMap v1.0.0 does not include AI features, subscriptions, or in-app purchases.
 
 ## Support Email
 
-Contacting support is optional. If you choose to email support, your email app controls the message you send and the information included in it.
+Contact Support is optional. If you choose to email support, your email app controls the message you send and the information included in it.
 
-## Changes
+## Children's Privacy
 
-This policy may be updated for future versions if BondMap adds account, sharing, sync, advertising changes, or other features.
+BondMap is intended for use by trusted family and friends with clear consent. BondMap v1.0.0 does not require accounts and the developer does not knowingly collect personal information from children through a developer server. If you believe a child has provided personal information through a support email, contact support@passmate.jp so we can review the request.
+
+## Changes to This Policy
+
+This policy may be updated for future versions if BondMap adds account features, sharing, sync, advertising changes, or other features.
