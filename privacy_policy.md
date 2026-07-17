@@ -1,6 +1,6 @@
 # BondMap Privacy Policy
 
-Effective Date: July 10, 2026
+Effective Date: July 17, 2026
 
 BondMap is a private location sharing app for trusted family and friends. This policy describes BondMap v1.0.0.
 
@@ -34,9 +34,9 @@ BondMap v1.0.0 includes a local Trusted Circle placeholder. It does not provide 
 
 ## Advertising
 
-BondMap v1.0.0 uses Google AdMob banner ads.
+BondMap v1.0.0 uses Google AdMob banner ads. BondMap configures these ads for non-personalized treatment and does not request App Tracking Transparency permission or access the IDFA for tracking across other companies' apps or websites.
 
-Google and AdMob may process information for ad delivery, fraud prevention, reporting, and measurement. Depending on device settings, region, consent choices, and Google services, this may include approximate location, device identifiers, advertising identifiers, ad interaction data, usage data, and diagnostics.
+Google and AdMob may process information for non-personalized or limited ad delivery, frequency capping, fraud prevention, aggregated reporting, and diagnostics. Depending on device settings, region, consent choices, and Google services, this may include IP-derived approximate location, app- or developer-scoped device identifiers, advertising data, ad interaction data, usage data, and diagnostics. BondMap disables Google Mobile Ads publisher first-party ID and does not use this information to track users across apps or websites.
 
 BondMap does not send your precise location or check-in history to a developer server for advertising in v1.0.0.
 
@@ -50,7 +50,9 @@ Contact Support is optional. If you choose to email support, your email app cont
 
 ## Children's Privacy
 
-BondMap is intended for use by trusted family and friends with clear consent. BondMap v1.0.0 does not require accounts and the developer does not knowingly collect personal information from children through a developer server. If you believe a child has provided personal information through a support email, contact support@passmate.jp so we can review the request.
+BondMap is not designed to collect personal information from children. BondMap v1.0.0 has no accounts, cloud sync, or developer-server location storage. A parent or guardian should supervise a child's use of location features and device permissions where required.
+
+If you believe a child has provided personal information through an optional support email, contact support@passmate.jp so the request can be reviewed.
 
 ## Changes to This Policy
 
